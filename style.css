@@ -378,6 +378,7 @@ section .item-x .grey-star {
 	height: 41px;
 	padding: 0;
 	padding-left: 12px;
+	outline: 0;
 	border-top: 2px solid #f2f2f2;
 	border-bottom: 2px solid #f2f2f2;
 } 
