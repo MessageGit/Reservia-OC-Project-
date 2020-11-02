@@ -278,11 +278,10 @@ section .item-x .grey-star {
 	.main-bloc .header-navbar .nav-menu #m-item-1 { border-top: 3px solid #0065FC; color: #0065FC; }
 	.main-bloc .header-navbar .nav-menu #m-item-3 { font-family: RalewayB; color: #0065FC; }
 	.main-bloc .header-navbar .nav-menu a { 
-		display: inline-block;
+		display: table-cell;
 		border-top: 3px solid transparent;
 		padding: 40px 24px 15px 24px;
 		font-size: 15px;
-		float: inline-start;
 		transition-duration: 0.25s;
 	}
 
