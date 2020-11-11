@@ -44,7 +44,6 @@ footer {
 
 footer .footer-item {
 	margin: 40px;
-	width: 200px;
 	margin-left: 90px;
 }
 
@@ -57,7 +56,6 @@ footer .footer-item {
 	footer .footer-item {
 		padding: 40px;
 		display: block;
-		width: inherit;
 		margin-left: 0px;
 	}
 }
