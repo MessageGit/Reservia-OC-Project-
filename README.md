@@ -1,4 +1,4 @@
-# CHEVALLIER_2_23102020
+# Reservia - Mission d'intégration
 
 Retrouvez dans ce repository l'intégration d'une maquette OpenClassroom en HTML/CSS.
 Concept du site: Réservation d'hotel en ligne [Reservia].
